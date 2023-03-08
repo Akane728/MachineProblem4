@@ -250,11 +250,6 @@ void sortedView()
 			printf("N/A");
 		}
     }
-    
-    for (i = 0; i < 5; i++)
-    {
-    	printf("%d\n", viewOrder[i]);
-	}
 }
 
 void sort()
